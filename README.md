@@ -22,20 +22,31 @@ Socials Section
   <a href="https://github.com/SwiftyWheels">
     <img align="center" src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white">
   </a>
+  <br>
 </div>
 
 ---
 <!--
-Statistics Section
--->
+Languages I Use
+--> 
 <div align="center">
-  <h3>Statistics</h3>
-  <p>Please try to look past these horrible stats for now, as I am just starting to use GitHub. They will update as I contribute more on GitHub!</p>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SwiftyWheels&count_private=true&show_icons=true&hide=stars">
+  <a href="https://www.oracle.com/ca-en/java/">
+    <img align="center" src="https://img.shields.io/badge/_-Java-informational?style=flat&color=b07219&logo=Oracle&logoColor=white">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwiftyWheels">
+  <a href="https://www.javascript.com/">
+    <img align="center" src="https://img.shields.io/badge/_-JavaScript-informational?style=flat&color=4f5d95&logo=JavaScript&logoColor=white">
+  </a>
+  <a href="https://www.php.net/">
+    <img align="center" src="https://img.shields.io/badge/_-PHP-informational?style=flat&color=563d7c&logo=PHP&logoColor=white">
+  </a>
+  <a href="https://www.mysql.com/">
+    <img align="center" src="https://img.shields.io/badge/_-MySQL-informational?style=flat&color=00758f&logo=MySQL&logoColor=white">
+  </a>
+  <a href="https://html.com/">
+    <img align="center" src="https://img.shields.io/badge/_-HTML-informational?style=flat&color=e34c26&logo=HTML5&logoColor=white">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img align="center" src="https://img.shields.io/badge/_-CSS-informational?style=flat&color=563d7c&logo=CSS3&logoColor=white">
   </a>
 </div>
 
@@ -63,6 +74,21 @@ About Me Section
     <br>
     <p>Fell in love with video games, loved "hacking" with scripts, now I am pursuing real software engineering.</p>
   </details>
+</div>
+
+---
+<!--
+Statistics Section
+-->
+<div align="center">
+  <h3>Statistics</h3>
+  <p>Please try to look past these horrible stats for now, as I am just starting to use GitHub. They will update as I contribute more on GitHub!</p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SwiftyWheels&count_private=true&show_icons=true&hide=stars">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SwiftyWheels">
+  </a>
 </div>
 
 ---
