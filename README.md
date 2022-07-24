@@ -72,7 +72,7 @@ About Me Section
   <details>
     <summary>TLDR</summary>
     <br>
-    <p>Fell in love with video games, loved "hacking" with scripts, now I am pursuing real software engineering.</p>
+    <p>Fell in love with video games, loved automation with scripts, now I am pursuing real software engineering.</p>
   </details>
 </div>
 
