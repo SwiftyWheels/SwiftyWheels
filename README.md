@@ -16,7 +16,7 @@ Socials Section
   <a href="http://patrickhogg.ca">
     <img align="center" src="https://img.shields.io/badge/Portfolio-_?style=for-the-badge&color=003A9B&logo=html5&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/patrick-hogg-898ab8233">
+  <a href="https://www.linkedin.com/in/patrick-hogg">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-_?style=for-the-badge&color=0A66C2&logo=LinkedIn&logoColor=white">
   </a>
   <a href="https://github.com/SwiftyWheels">
