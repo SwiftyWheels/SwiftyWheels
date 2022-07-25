@@ -57,7 +57,7 @@ About Me Section
 <div>
   <h3>About Me</h3>
   <p>
-    I am an aspiring Full Stack Developer, currently enrolled at Sheridan College. 
+    I am a Full Stack Developer, currently enrolled at Sheridan College. 
   </p>
   <details>
     <summary>Click Me To Read My Full About Me</summary>
@@ -72,7 +72,7 @@ About Me Section
   <details>
     <summary>TLDR</summary>
     <br>
-    <p>Fell in love with video games, loved automation with scripts, now I am pursuing real software engineering.</p>
+    <p>Fell in love with video games, loved automation with scripts, now I am pursuing software engineering.</p>
   </details>
 </div>
 
