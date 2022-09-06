@@ -63,16 +63,16 @@ About Me Section
     <summary>Click Me To Read My Full About Me</summary>
     <br>
     <p>
-      Like many people, my interest in computers arose when I was just a small child, playing video games on the many consoles I was               fortunate to have. It always intrigued me how people were able to build and develop the hardware and software that enabled millions of       people to enjoy these video games. As I became older and after receiving my first PC, I also fell in love with desktop video games.           These are back in the days of the original MapleStory, World of Warcraft and Runescape.
+Like many people, my interest in computers arose when I was just a small child, playing video games on the many consoles I was fortunate to have. It always intrigued me how people were able to build and develop the hardware and software that enabled millions of people to enjoy these video games. As I became older and after receiving my first PC, I also fell in love with desktop video games. These are back in the days of the original MapleStory, World of Warcraft and Runescape.
     </p>
     <p>
-      Over the next few years, I dabbled around with scripting in different languages such as <strong>LUA, Python and AHK(AutoHotKey)               </strong> to give myself an edge in any video game I wanted. I soon realized that I was nearly scratching the surface of programming.         Many years later, I am now working with many different languages such as <strong>Java, HTML, CSS, JS, PHP, Shell and C#</strong>. I           hope to continue on this journey for the entirety of my life, as the saying goes, <strong>"If you are not learning, you are not               living."</strong>
+      Over the next few years, I dabbled around with scripting in different languages such as <strong>LUA, Python and AHK(AutoHotKey)               </strong> to give myself an edge in any video game I wanted. However, I soon realized that I was nearly scratching the surface of programming. Many years later, I am now working with multiple languages such as <strong>Java, HTML, CSS, JS, PHP, Shell and C#</strong>. I plan to continue on this journey for the entirety of my life. As Albert Einstein once said, <strong>"Once you stop learning, you start dying."</strong>
   </p>
   </details>
   <details>
     <summary>TLDR</summary>
     <br>
-    <p>Fell in love with video games, loved automation with scripts, now I am pursuing software engineering.</p>
+    <p>Fell in love with video games, loved automation with scripts, and now I am pursuing software engineering. I work with multiple languages such as <strong>Java, HTML, CSS, JS, PHP and Bash.</strong></p>
   </details>
 </div>
 
@@ -82,7 +82,6 @@ Statistics Section
 -->
 <div align="center">
   <h3>Statistics</h3>
-  <p>Please try to look past these horrible stats for now, as I am just starting to use GitHub. They will update as I contribute more on GitHub!</p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=SwiftyWheels&count_private=true&show_icons=true&hide=stars">
   </a>
